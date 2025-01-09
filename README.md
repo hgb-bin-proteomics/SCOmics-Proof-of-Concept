@@ -1,6 +1,6 @@
 # SCOmics-Proof-of-Concept
 
-A proof-of-concept implementation for automated analysis of (single cell) proteomics
+A proof-of-concept implementation for automated analysis of (single cell) multi-omic proteomics
 and transcriptomics data based on the publication by [Fulcher et al.](https://www.nature.com/articles/s41467-024-54099-z).
 
 Implemented in [Shiny](https://shiny.posit.co/) using [R 4.4.2](https://www.r-project.org/).
@@ -9,9 +9,17 @@ Example data can be found here: [Cajun-data/nanoSPLITS](https://github.com/Cajun
 
 ## Screenshots
 
+### Proteomics
+
 ![Screenshot1](screenshots/1.png)
 ![Screenshot2](screenshots/2.png)
+
+### Transcriptomics
+
 ![Screenshot3](screenshots/3.png)
+
+### Clustering
+
 ![Screenshot4](screenshots/4.png)
 
 ## Contact
