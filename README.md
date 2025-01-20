@@ -7,6 +7,15 @@ Implemented in [Shiny](https://shiny.posit.co/) using [R 4.4.2](https://www.r-pr
 
 Example data can be found here: [Cajun-data/nanoSPLITS](https://github.com/Cajun-data/nanoSPLITS/tree/main/Pooled_C10Cells)
 
+## Running the App
+
+- Install the [R programming language](https://www.r-project.org/).
+- Install the [required packages](https://github.com/hgb-bin-proteomics/SCOmics-Proof-of-Concept/blob/2272596bf5ad40033a048189261c7729eafa5aab/scomics/app.R#L1-L15).
+- In an R shell run:
+  ```R
+  shiny::runApp('scomics')
+  ```
+
 ## Screenshots
 
 ### Proteomics
